@@ -1,0 +1,17 @@
+sass:
+  style: compressed
+  
+exclude:
+  - node_modules
+  
+collections:
+  documentos:
+    output: true
+  
+defaults:
+  -
+    scope:
+      path: ""
+      type: documentos
+    values:
+      layout: default
