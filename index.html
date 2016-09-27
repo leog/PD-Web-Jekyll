@@ -3,17 +3,8 @@ layout: default
 title: Home
 ---
 
-<div class="container">
-	{% include_relative /assets/img/header_logo.svg %}
-	<h1>Probando</h1>
-	<i class="fa fa-arrows" aria-hidden="true"></i>
-	<ul>
-	{% for persona in site.data.equipo %}
-	  <li>
-		<a href="https://github.com/{{ member.github }}">
-		  {{ persona.name }}
-		</a>
-	  </li>
-	{% endfor %}
-	</ul>
-</div>
+<!-- Introducción -->
+{% include _introduccion.html %}
+
+<!-- Transparencia -->
+{% include _transparencia.html %}

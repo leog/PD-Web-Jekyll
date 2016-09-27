@@ -1,8 +1,6 @@
 sass:
   style: compressed
-  
-exclude:
-  - node_modules
+  sass_dir: ./assets/styles
   
 collections:
   documentos:
