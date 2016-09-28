@@ -1,4 +1,4 @@
-<nav class="navbar navbar-fixed-top navbar-custom" style="background-color: transparent;">
+<nav class="navbar navbar-fixed-top navbar-custom">
 	<button class="navbar-toggler hidden-lg-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar"
 			aria-controls="exCollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation">
 		<i class="fa fa-bars"></i>
@@ -7,26 +7,26 @@
 		{% include svg/acceso.svg %}
 	</div>
 	<div class="container navbar-toggleable-md collapse" id="exCollapsingNavbar">
-		<div class="m-x-auto" style="width: 840px;height: 40px;">
-				<a class="navbar-brand page-scroll hidden-lg-up" href="#arriba">
-					{% include svg/header_logo.svg %}
+		<div style="height: 40px; text-align: center;">
+			<a class="navbar-brand page-scroll hidden-lg-up" href="#arriba">
+				{% include svg/header_logo.svg %}
+			</a>
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="nav navbar-nav" style="display: inline-block;">
+				<!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+				<a class="nav-item nav-link" href="#arriba"></a>
+				<a class="nav-item nav-link page-scroll" href="#transparencia">Transparencia</a>
+				<a class="nav-item nav-link page-scroll" href="#participacion">Participación</a>
+				<a class="nav-item nav-link page-scroll" href="#objetivos">Objetivos</a>
+				<a class="nav-item nav-link page-scroll" href="#equipo">Equipo</a>
+				<a class="nav-item nav-link page-scroll" href="#preguntas">Preguntas Clave</a>
+				<a class="nav-item nav-link page-scroll" href="#">
+					Acceso
+					<span style="display: inline-block; vertical-align: text-top; position: relative; top: -2px;">
+						{% include svg/acceso.svg %}
+					</span>
 				</a>
-				<!-- Collect the nav links, forms, and other content for toggling -->
-				<div class="nav navbar-nav">
-					<!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-					<a class="nav-item nav-link" href="#arriba"></a>
-					<a class="nav-item nav-link page-scroll" href="#transparencia">Transparencia</a>
-					<a class="nav-item nav-link page-scroll" href="#participacion">Participación</a>
-					<a class="nav-item nav-link page-scroll" href="#objetivos">Objetivos</a>
-					<a class="nav-item nav-link page-scroll" href="#equipo">Equipo</a>
-					<a class="nav-item nav-link page-scroll" href="#preguntas">Preguntas Clave</a>
-					<a class="nav-item nav-link page-scroll" href="#">
-						Acceso
-						<span style="display: inline-block; vertical-align: text-top; position: relative; top: -2px;">
-							{% include svg/acceso.svg %}
-						</span>
-					</a>
-				</div>
 			</div>
+		</div>
 	</div>
 </nav>
