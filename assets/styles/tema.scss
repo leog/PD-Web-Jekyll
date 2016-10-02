@@ -52,10 +52,15 @@ a {
 }
 
 .navbar-nav .nav-item+.nav-item {
-    margin-left: 1.5rem;
+    margin-left: 0;
+}
+
+.navbar-nav .nav-item:not(:last-child) {
+    margin-right: 1.5rem;
 }
 
 .navbar-custom {
+    padding: 0;
     margin-bottom: 0;
     text-transform: uppercase;
     background-color: transparent;
@@ -63,7 +68,7 @@ a {
         color: white;
         font-size: 18px;
         margin: 0;
-        padding: 15px;
+        padding: 1rem;
         &:focus,
         &:active {
             outline: none;
@@ -76,7 +81,6 @@ a {
         padding-bottom: 0;
         margin-right: 0;
         svg {
-            filter: drop-shadow(2px 2px 2px #202c46);
             position: relative;
             top: 50%;
             -webkit-transform: translateY(-50%);
@@ -121,14 +125,8 @@ a {
                 outline: none;
                 background-color: transparent;
             }
-        }
-        &.active {
-            outline: none;
-            a {
-                background-color: fade(white, 30%);
-                &:hover {
-                    color: white;
-                }
+            &.active {
+                color: #f37021;
             }
         }
     }
@@ -141,7 +139,7 @@ a {
         @include transition(padding .5s ease-in-out);
         &.top-nav-collapse {
             padding: 10px 0;
-            background: #3e6189;
+            background: #163753;
             border-bottom: 1px solid #7598bf;
         }
     }
@@ -161,13 +159,38 @@ a {
         vertical-align: middle;
         background-color: rgba(0,0,0,0.5);
         svg {
-            @include img-fluid();
+            width: 100%;
+            max-width: 100%;
+            height: 100%;
         }
         .brand-heading {
             font-size: 40px;
         }
         .intro-text {
             font-size: 18px;
+        }
+        .extra {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            color: #5d5d5d;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+
+            a {
+                color: #5d5d5d;
+            }
+
+            .social {
+                font-size: 1.3rem;
+                a {
+                    color: #f37021;
+                    &:not(:last-child) {
+                        margin-right: 1.5rem;
+                    }
+                }
+            }
         }
     }
     @media(min-width:768px) {
@@ -185,14 +208,13 @@ a {
 }
 
 .btn-circle {
-    width: 70px;
-    height: 70px;
-    margin-top: 15px;
+    width: 50px;
+    height: 50px;
     display: inline-block;
-    padding: 7px 16px;
+    padding: 5px 13px;
     border: 2px solid white;
     border-radius: 100% !important;
-    font-size: 40px;
+    font-size: 30px;
     color: white;
     background: transparent;
     @include transition(background .3s ease-in-out);
