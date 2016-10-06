@@ -278,7 +278,9 @@ a {
 }
 
 .content-section {
+    position: relative;
     padding-top: 100px;
+
     a.btn {
         font-size: 20px;
         border: 2px solid #fbfbfb;
@@ -288,6 +290,24 @@ a {
             color: #f37021;
             border-color: #f37021;
         }
+    }
+
+    &.separador::before, &.separador::after {
+        position: absolute;
+        content: '';
+        pointer-events: none;
+    }
+
+    &.separador::after {
+        bottom: -4rem;
+        width: 14px;
+        height: 14px;
+        border-radius: 50%;
+        left: 50%;
+        -webkit-transform: translateX(-50%);
+        transform: translateX(-50%);
+        background: #f37021;
+        box-shadow: 30px 0 #f37021, -30px 0 #f37021;
     }
 }
 
