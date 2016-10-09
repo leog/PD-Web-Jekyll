@@ -1,0 +1,24 @@
+<section id="preguntas" class="container content-section text-xs-center">
+    <div class="row">
+        <div class="col-lg-8 offset-lg-2">
+            <h2>Preguntas clave</h2>
+            <div id="accordion" role="tablist" aria-multiselectable="true">
+                {% for pregunta in site.data.preguntas %}
+                    <div class="panel panel-default" style="margin-bottom: 10px;">
+                        <div class="panel-heading" role="tab" id="heading{{ forloop.index }}">
+                            <h4 class="panel-title" style="margin: 10px 0;">
+                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse{{ forloop.index }}" aria-expanded="true" aria-controls="collapse{{ forloop.index }}" style="text-transform: none;     color: #ffffff;">
+                                    {{ pregunta.pregunta }}
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapse{{ forloop.index }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading{{ forloop.index }}" style="margin: 0 0 20px;">
+                            {{ pregunta.respuesta }}
+                            <br/><br/><a href="{{ pregunta.link }}" style="font-size: 15px;" class="btn">Más información</a>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>

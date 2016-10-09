@@ -1,13 +1,17 @@
-<div class="container">
-    <h1>Probando</h1>
-    <i class="fa fa-arrows" aria-hidden="true"></i>
-    <ul>
+<section id="equipo" class="container content-section text-xs-center separador">
+    <div class="row">
+        <div class="col-lg-12">
+            <h2>Equipo</h2>
+            <p>
+                El Partido Digital surgió de un grupo de personas jóvenes de distintos ámbitos y de distintas profesiones con ganas de creer más en la política de nuestro país para que éste salga adelante. Estamos convencidos que podemos acercarle la política a los uruguayos de una manera más directa para que la misma empiece a sanar aprovechando las tecnologías de la información y comunicación.
+            </p>
+        </div>
         {% for persona in site.data.equipo %}
-        <li>
-            <a href="https://github.com/{{ member.github }}">
-                {{ persona.name }}
-            </a>
-        </li>
+            <div class="col-lg-4 col-sm-6 text-center">
+                <img class="img-circle img-responsive img-center" src="https://s.gravatar.com/avatar/{{ persona.gravatar }}?s=160" alt="">
+                <h4 style="margin: 10px 0 10px;">{{ persona.nombre }} <br/><small>{{ persona.posicion }}</small></h4>
+                <p style="margin: 0;">{{ persona.descripcion }}</p>
+            </div>
         {% endfor %}
-    </ul>
-</div>
+    </div>
+</section>

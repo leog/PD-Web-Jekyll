@@ -349,3 +349,17 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: fade(white, 20%);
 }
+
+.list-group-item {
+    background-color: transparent;
+    border: 1px solid #fff;
+}
+
+.tag-pill {
+    &.Logrado {
+        background-color: green;
+    }
+    &.Pendiente {
+        background-color: #e09101;
+    }
+}

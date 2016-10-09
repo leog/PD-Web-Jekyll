@@ -1,8 +1,14 @@
-- name: Eric Mill
-  github: konklone
+- nombre: Justin Graside
+  gravatar: 48a343011e82797193eb899f8e87c1be
+  posicion: Presidente
+  descripcion: Encargado de la coordinación de todos los equipos
 
-- name: Parker Moore
-  github: parkr
+- nombre: Ec. Ma. Pía Alonso
+  gravatar: e9cafc8c784a828cfa21b1ba73e0d722
+  posicion: Tesorera
+  descripcion: Encargada del manejo de las finanzas
 
-- name: Liu Fengyun
-  github: liufengyun
+- nombre: Leo Giovanetti
+  gravatar: 9b7fd436ad75a169c85874a27e9073f8
+  posicion: Líder IT
+  descripcion: Encargado de la coordinación del equipo técnico
