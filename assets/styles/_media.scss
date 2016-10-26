@@ -1,0 +1,53 @@
+@media(min-width:768px) {
+  p {
+    margin: 35px 0 35px;
+    font-size: 20px;
+    line-height: 1.6;
+  }
+}
+
+@media(min-width:768px) {
+  .navbar-custom {
+    padding: 40px 0;
+    border-bottom: none;
+    letter-spacing: 1px;
+    background: transparent;
+    @include transition(background .5s ease-in-out);
+    @include transition(padding .5s ease-in-out);
+    &.top-nav-collapse {
+      padding: 10px 0;
+      background: #163753;
+      border-bottom: 1px solid #7598bf;
+    }
+  }
+}
+
+@media(min-width:768px) {
+  .intro {
+    height: 100%;
+    padding: 0;
+    .intro-body {
+      .brand-heading {
+        font-size: 100px;
+      }
+      .intro-text {
+        font-size: 26px;
+      }
+    }
+  }
+}
+
+@media(min-width:767px) {
+  .content-section {
+    padding-top: 140px;
+  }
+
+  .download-section {
+    padding: 100px 0;
+  }
+
+  #map {
+    height: 400px;
+    margin-top: 250px;
+  }
+}
