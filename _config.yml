@@ -1,3 +1,9 @@
+analytics: UA-64073239-2
+
+cta:
+  nombre: Firmá y fundá el Partido Digital
+  link: https://docs.google.com/forms/d/e/1FAIpQLSfiT6ZyqsRs2virK2wLE1UnqZ4VcSnq5NNiF-NDz7wQ66pc1Q/viewform
+
 sass:
   style: compressed
   sass_dir: ./assets/styles

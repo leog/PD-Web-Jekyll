@@ -25,6 +25,8 @@ $(function() {
             event.preventDefault();
         }
     });
+
+    $("body").scrollspy({offset:200});
 });
 
 // Closes the Responsive Menu on Menu Item Click

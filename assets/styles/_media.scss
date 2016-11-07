@@ -35,19 +35,28 @@
       }
     }
   }
+
+  .content-section {
+    padding-top: 5rem;
+  }
 }
 
-@media(min-width:767px) {
+@media (max-width: 991px) {
+  .navbar-nav {
+    float: left;
+  }
+
   .content-section {
-    padding-top: 140px;
+    padding-top: 4rem;
+
+    &.separador::after {
+      margin: 3.5rem auto 0 !important;
+    }
   }
 
-  .download-section {
-    padding: 100px 0;
-  }
-
-  #map {
-    height: 400px;
-    margin-top: 250px;
+  #preguntas {
+    h4 {
+      font-size: 1.3rem;
+    }
   }
 }
