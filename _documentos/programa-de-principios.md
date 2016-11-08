@@ -1,3 +1,7 @@
+---
+# Comentario de Front matter para asegurar que Jekyll procese este archivo
+---
+
 # Programa de Principios
 
 El Partido Digital pretende ser un partido adaptado a la dinámica de esta sociedad del siglo XXI.
