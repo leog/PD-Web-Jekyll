@@ -1,3 +1,8 @@
+- pregunta: "¿Cuál es el Programa de Gobierno del Partido Digital?"
+  respuesta: "El contenido del Programa de Gobierno del Partido Digital será decidido colaborativamente mediante un conjunto de instancias a definir."
+  link: "/documentos/carta-organica#programa"
+  identificador: programa
+
 - pregunta: "¿Cuál es la principal diferencia sobre los partidos políticos actuales?"
   respuesta: "Cada representante electo por el Partido Digital votará de acuerdo a lo que se votó previamente en una plataforma online."
   link: "/documentos/carta-organica#representante"
@@ -22,11 +27,6 @@
   respuesta: "El proceso de creación de una ley es muy estricto y de muy difícil acceso. El Partido Digital tiene como objetivo facilitar una vía por la cual una idea pueda transformarse en una ley luego de un proceso preestablecido que incluye instancias de enriquecimiento colaborativo además de acatar un conjunto de reglas y estar debidamente fundamentada. Luego de su creación la misma debe ser presentada en la herramienta de votación del Partido Digital donde todos decidiremos si se presenta a la cámara de representantes o si se debe seguir trabajando en ella."
   link: "/documentos/carta-organica#propuestas"
   identificador: propuestas
-
-- pregunta: "¿Cuál es el Programa de Gobierno del Partido Digital?"
-  respuesta: "El contenido del Programa de Gobierno del Partido Digital será decidido colaborativamente mediante un conjunto de instancias a definir."
-  link: "/documentos/carta-organica#programa"
-  identificador: programa
 
 - pregunta: "¿Cuándo los voy a poder votar?"
   respuesta: "El Partido Digital se presentará en las próximas Elecciones Nacionales del 2019 y en las Elecciones Departamentales del año siguiente."

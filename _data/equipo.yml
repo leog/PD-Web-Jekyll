@@ -1,14 +1,63 @@
 - nombre: Justin Graside
   gravatar: 48a343011e82797193eb899f8e87c1be
   posicion: Presidente
-  descripcion: Encargado de la coordinación de todos los equipos
 
 - nombre: Ec. Ma. Pía Alonso
   gravatar: e9cafc8c784a828cfa21b1ba73e0d722
   posicion: Tesorera
-  descripcion: Encargada del manejo de las finanzas
 
 - nombre: Leo Giovanetti
   gravatar: 9b7fd436ad75a169c85874a27e9073f8
   posicion: Líder IT
-  descripcion: Encargado de la coordinación del equipo técnico
+
+- nombre: Ma. Luisa Martínez
+  gravatar:
+  posicion: Secretaria General
+
+- nombre: Ariel Guevara
+  gravatar:
+  posicion: Programa de Gobierno
+
+- nombre: Ana Laura Spósito
+  gravatar:
+  posicion: Comunicación
+
+- nombre: Daniel Goldman
+  gravatar:
+  posicion: Equipo técnico/Comunicación
+
+- nombre: Martín Avdolov
+  gravatar:
+  posicion: Comunicación
+
+- nombre: Analía Pérez
+  gravatar:
+  posicion: Afiliaciones
+
+- nombre: Diego Ventura
+  gravatar: 28ad0ef1e5f2da02dca7b6c428e2f263
+  posicion: Equipo Técnico
+
+- nombre: Federico Masini
+  gravatar:
+  posicion: Comunicación
+
+- nombre: Claudio Barboza
+  gravatar:
+  posicion: Legal
+
+- nombre: Federico Steiner
+  gravatar:
+  posicion: Equipo Técnico
+
+- nombre: Javier Villasuso
+  gravatar:
+  posicion: Comunicación
+
+- nombre: Bruno Masoller
+  gravatar:
+  posicion: Afiliaciones
+
+- nombre: Damián Neira
+  gravatar:
+  posicion: Equipo Técnico

@@ -4,12 +4,12 @@
 		<i class="fa fa-bars"></i>
 	</button>
 	<div class="hidden-lg-up pull-right p-1">
-		<img src="https://recursos.partidodigital.org.uy/assets/img/logo_cel_acceso.svg">
+		{% include recursos/assets/img/logo_cel_acceso.svg %}
 	</div>
 	<div class="container navbar-toggleable-md collapse" id="exCollapsingNavbar">
 		<div style="height: 40px; text-align: center;">
 			<a class="navbar-brand hidden-lg-up" href="#arriba">
-				<img style="width: 10rem;" src="https://recursos.partidodigital.org.uy/assets/img/logo_horizontal.svg">
+				<img style="width: 12rem;" src="https://recursos.partidodigital.org.uy/assets/img/logo_horizontal.svg">
 			</a>
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<ul class="nav navbar-nav" style="display: inline-block;">
@@ -32,10 +32,10 @@
 					<a class="nav-link" href="#contacto">Contacto</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-item nav-link" href="https://acceso.partidodigital.org.uy">
+					<a class="nav-link" href="https://partidodigital.auth0.com/login?client=3yqAXfyeQCu5RcrgSQUsb0M4ojdvif4N">
 						Acceso
-						<span style="position: relative;top: -2px;">
-							{% include svg/acceso.svg %}
+						<span style="float: right;top: 2px;left: 6px;position: relative;">
+							{% include recursos/assets/img/logo_cel_acceso.svg %}
 						</span>
 					</a>
 				</li>

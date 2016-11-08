@@ -11,9 +11,9 @@
         </div>
         {% for persona in site.data.equipo %}
             <div class="col-lg-4 col-sm-6 text-center mt-3">
-                <img class="rounded-circle img-responsive img-center" src="https://s.gravatar.com/avatar/{{ persona.gravatar }}?s=160" alt="">
+                <img class="rounded-circle img-responsive img-center"
+                    src="https://s.gravatar.com/avatar/{{ persona.gravatar }}?s=160" alt="">
                 <h4 class="my-1">{{ persona.nombre }} <br/><small>{{ persona.posicion }}</small></h4>
-                <p class="m-0">{{ persona.descripcion }}</p>
             </div>
         {% endfor %}
         <div class="col-lg-4 col-sm-6 text-center mt-3">

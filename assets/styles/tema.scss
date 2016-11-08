@@ -51,6 +51,10 @@ a {
     .nav-item:not(:last-child) {
         margin-right: 1rem;
     }
+
+    .nav-link svg {
+        width: 25px;
+    }
 }
 
 .navbar-custom {
@@ -68,7 +72,7 @@ a {
     .navbar-brand {
         float: left;
         height: 35px;
-        padding-top: 0;
+        padding-top: 2px;
         padding-bottom: 0;
         margin-right: 0;
         svg {
@@ -106,7 +110,7 @@ a {
                 color: #f37021;
                 outline: none;
                 background-color: transparent;
-                svg path {
+                svg path, svg rect {
                     fill: #f37021;
                 }
             }
@@ -230,6 +234,12 @@ a {
 
 .content-section {
     position: relative;
+
+    &#preguntas {
+        h4 {
+            font-weight: normal;
+        }
+    }
 
     a.btn {
         font-size: 20px;
