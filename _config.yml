@@ -19,5 +19,4 @@ defaults:
     values:
       layout: default
       
-kramdown:
-  entity_output:  as_input
+markdown: kramdown
