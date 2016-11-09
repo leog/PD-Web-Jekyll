@@ -4,7 +4,7 @@
 
 # Carta orgánica
 
-## Sécción 1
+## Sección 1
 #### Del Partido Digital
 #### Artículo 1
 El Partido Digital es un partido político abierto a todos los uruguayos que deseen construir un Uruguay por y para todos.
