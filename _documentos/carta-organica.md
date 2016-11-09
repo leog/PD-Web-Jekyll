@@ -171,7 +171,7 @@ Aquellas situaciones que tienen un tiempo de ejecución mayor a noventa días y 
 #### Artículo 64
 Las digitales que acceden al Poder Ejecutivo deberán hacer su trabajo lo más participativo y transparente posible, mientras no atente con la ejecución de las ideas del Programa de Gobierno y le permita su autoridad. Al finalizar cada año se deberá comunicar las acciones que fueron puesta a votación en la plataforma y la justificación correspondiente de las que no.
 
-## SECCIÓN 5
+## Sección 5
 #### De la gestión de los fondos
 #### Artículo 65
 Los fondos del Partido Digital se gestionarán de forma transparente y disponible para que cualquier persona pueda visualizar y auditar.
@@ -182,7 +182,7 @@ Desde el Partido Digital se buscará compartir la mayor cantidad de información
 #### Artículo 68
 Todas las donaciones y aportes que se reciban en el Partido Digital serán nominativas, no se permitirán donaciones anónimas independientemente de los montos aportados.
 
-## SECCIÓN 6
+## Sección 6
 #### De la elaboración del Programa de Gobierno del Partido Digital
 #### Artículo 69
 El Programa de Gobierno del Partido Digital será elaborado de forma colaborativa en el que todo los uruguayos habilitados para votar podrán aportar ideas.
@@ -207,7 +207,7 @@ Todas las decisiones que no estén contempladas en estos estatutos, serán decid
 #### Artículo 79
 Lo actuado en situaciones especiales no contempladas en esta Carta Orgánica, se integrarán a la misma para que contemple futuras situaciones.
 
-## SECCIÓN 7
+## Sección 7
 Aspectos tecnológicos
 De la tecnología a utilizar
 #### Artículo 80
@@ -229,7 +229,7 @@ Todos los datos vertidos por los digitales participantes de las distintas instan
 #### Artículo 86
 Se implementarán todas las medias y herramientas tecnológicas disponibles para asegurar esto.
 
-## SECCIÓN 8
+## Sección 8
 De las agrupaciones
 #### Artículo 87
 Las agrupaciones Digitales que deseen constituirse como tal, deberán presentar la firma de al menos cien digitales habilitados para votar para su habilitación.
@@ -238,7 +238,7 @@ Los candidatos de las agrupaciones Digitales deberán cumplir los requisitos exp
 #### Artículo 89
 Luego de presentadas las firmas, el nombre de la agrupación y la información requerida por Ley, el Directorio se expedirá sobre su aprobación en un plazo no mayor a 30 días.
 
-## SECCIÓN 9
+## Sección 9
 #### De la modificación de esta Carta Orgánica
 #### Artículo 90
 La modificación parcial o total de esta Carta Orgánica la podrá realizar el Directorio con la aprobación de todos sus integrantes.
