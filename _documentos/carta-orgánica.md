@@ -2,13 +2,13 @@
 # Comentario de Front matter para asegurar que Jekyll procese este archivo
 ---
 
-# Carta org&aacute;nica
+# Carta orgánica
 
-## Secci&oacute;n 1
+## Sección 1
 
 #### Del Partido Digital
 
-#### Art&iacute;culo 1
+#### Artículo 1
 El Partido Digital es un partido político abierto a todos los uruguayos que deseen construir un Uruguay por y para todos.
 
 ## Secci&oacute;n 2
