@@ -2,7 +2,7 @@
 # Comentario de Front matter para asegurar que Jekyll procese este archivo
 ---
 
-# Carta orgánica
+# Carta org&aacute;nica
 
 ## Secci&oacute;n 1
 
@@ -11,7 +11,7 @@
 #### Artículo 1
 El Partido Digital es un partido político abierto a todos los uruguayos que deseen construir un Uruguay por y para todos.
 
-## Sección 2
+## Secci&oacute;n 2
 
 ### Capítulo 1
 
@@ -91,12 +91,12 @@ Los requisitos para ser integrante del Comité de Ética son los siguientes:
 
 ### Capítulo 2
 
-#### De la elección de las autoridades internas
+#### De la elecci&oacute;n de las autoridades internas
 
 #### Artículo 23
 Las autoridades internas serán electas por los convencionales del Partido Digital en la Convención Nacional a celebrarse el tercer sábado luego de las elecciones internas.
 
-## Sección 3
+## Secci&oacute;n 3
 
 #### De los candidatos del Partido Digital
 
@@ -131,11 +131,11 @@ Los requisitos antes mencionados se pueden modificar solo por ⅘ de los votos d
 #### Artículo 31
 Aquellas personas del Partido Digital que integren el Poder Ejecutivo en una posición en que se requiere conocimiento técnico del área, se les exigirá que tengan 3 años de experiencia en el área, 2 años de antigüedad en el Partido Digital y 2 propuestas aprobadas en el Programa de Gobierno.
 
-## Sección 4
+## Secci&oacute;n 4
 
 #### De los representantes electos
 
-#### De la actuación de los representantes del Partido Digital en el Poder Legislativo.
+#### De la actuaci&oacute;n de los representantes del Partido Digital en el Poder Legislativo.
 
 #### Artículo 32
 Los representantes del Partido Digital en cualquier órgano legislativo deben actuar de acuerdo a lo que se decida en una plataforma online. Esta plataforma mostrará el proyecto de Ley para votar, material adicional para conocer sobre el tema, opiniones de expertos en el área y de los votantes de la misma que quiera justificar su voto.
@@ -240,9 +240,9 @@ Aquellas situaciones que tienen un tiempo de ejecución mayor a noventa días y 
 #### Artículo 64
 Las digitales que acceden al Poder Ejecutivo deberán hacer su trabajo lo más participativo y transparente posible, mientras no atente con la ejecución de las ideas del Programa de Gobierno y le permita su autoridad. Al finalizar cada año se deberá comunicar las acciones que fueron puesta a votación en la plataforma y la justificación correspondiente de las que no.
 
-## Sección 5
+## Secci&oacute;n 5
 
-#### De la gestión de los fondos
+#### De la gesti&oacute;n de los fondos
 
 #### Artículo 65
 Los fondos del Partido Digital se gestionarán de forma transparente y disponible para que cualquier persona pueda visualizar y auditar.
@@ -256,9 +256,9 @@ Desde el Partido Digital se buscará compartir la mayor cantidad de información
 #### Artículo 68
 Todas las donaciones y aportes que se reciban en el Partido Digital serán nominativas, no se permitirán donaciones anónimas independientemente de los montos aportados.
 
-## Sección 6
+## Secci&oacute;n 6
 
-#### De la elaboración del Programa de Gobierno del Partido Digital
+#### De la elaboraci&oacute;n del Programa de Gobierno del Partido Digital
 
 #### Artículo 69
 El Programa de Gobierno del Partido Digital será elaborado de forma colaborativa en el que todo los uruguayos habilitados para votar podrán aportar ideas.
@@ -293,9 +293,9 @@ Todas las decisiones que no estén contempladas en estos estatutos, serán decid
 #### Artículo 79
 Lo actuado en situaciones especiales no contempladas en esta Carta Orgánica, se integrarán a la misma para que contemple futuras situaciones.
 
-## Sección 7
+## Secci&oacute;n 7
 
-#### Aspectos tecnológicos
+#### Aspectos tecnol&oacute;gicos
 
 #### De la tecnología a utilizar
 
@@ -316,7 +316,7 @@ Todas las elecciones con sus correspondientes justificaciones e información est
 #### Artículo 84
 Se implementarán todas las medidas disponibles para asegurar la seguridad de la información vertida por las personas participantes de las distintas instancias del Partido Digital.
 
-#### De la protección de la privacidad
+#### De la protecci&oacute;n de la privacidad
 
 #### Artículo 85
 Todos los datos vertidos por los digitales participantes de las distintas instancias del Partido Digital serán privados, excepto que la persona especifique lo contrario.
@@ -324,7 +324,7 @@ Todos los datos vertidos por los digitales participantes de las distintas instan
 #### Artículo 86
 Se implementarán todas las medias y herramientas tecnológicas disponibles para asegurar esto.
 
-## Sección 8
+## Secci&oacute;n 8
 
 #### De las agrupaciones
 
@@ -337,9 +337,9 @@ Los candidatos de las agrupaciones Digitales deberán cumplir los requisitos exp
 #### Artículo 89
 Luego de presentadas las firmas, el nombre de la agrupación y la información requerida por Ley, el Directorio se expedirá sobre su aprobación en un plazo no mayor a 30 días.
 
-## Sección 9
+## Secci&oacute;n 9
 
-#### De la modificación de esta Carta Orgánica
+#### De la modificaci&oacute;n de esta Carta Org&aacute;nica
 
 #### Artículo 90
 La modificación parcial o total de esta Carta Orgánica la podrá realizar el Directorio con la aprobación de todos sus integrantes.
