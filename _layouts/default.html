@@ -9,7 +9,7 @@
 	{% include _navegacion.html %}
 
 	<!-- Contenido principal -->
-	{{ content }}
+	{{ content | replace: "á", "&#225;" | replace: "é", "&#233;" | replace: "í", "&#237;" | replace: "ó", "&#243;" | replace: "ú", "&#250;" }}
 
 	<!-- Scripts -->
 	{% include _scripts.html %}
