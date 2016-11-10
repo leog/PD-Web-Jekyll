@@ -4,7 +4,7 @@
 
 # Carta orgánica
 
-## Sección 1 ##         {#sección-1}
+## Markdown plus h2 with a custom ID ##         {#id-goes-here}
 
 #### Del Partido Digital
 
