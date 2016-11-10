@@ -20,3 +20,6 @@ defaults:
       layout: default
       
 markdown: kramdown
+
+kramdown:
+  entity_output: :symbolic
