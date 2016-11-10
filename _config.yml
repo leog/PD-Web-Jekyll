@@ -18,8 +18,3 @@ defaults:
       type: documentos
     values:
       layout: default
-      
-markdown: kramdown
-
-kramdown:
-  entity_output: :symbolic
