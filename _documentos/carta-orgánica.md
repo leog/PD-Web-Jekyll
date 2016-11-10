@@ -4,7 +4,7 @@
 
 # Carta orgánica
 
-## Sección 1
+## Sección 1    {#sección-1}
 
 #### Del Partido Digital
 
