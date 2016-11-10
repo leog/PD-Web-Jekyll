@@ -2,7 +2,7 @@
 # Comentario de Front matter para asegurar que Jekyll procese este archivo
 ---
 
-# Carta orgánica
+# Carta orgánica {#carta-organica}
 
 ## Sección 1 {#seccion-1}
 
