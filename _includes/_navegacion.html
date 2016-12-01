@@ -3,12 +3,12 @@
 			aria-controls="exCollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation">
 		<i class="fa fa-bars"></i>
 	</button>
-	<div class="hidden-lg-up pull-right p-1">
-		{% include recursos/assets/img/logo_cel_acceso.svg %}
+	<div class="hidden-lg-up p-1" id="acceso" style="position: fixed; top: 0; right: 0;">
+		<a href="{{site.acceso_url}}">{% include recursos/assets/img/logo_cel_acceso.svg %}</a>
 	</div>
 	<div class="container navbar-toggleable-md collapse" id="exCollapsingNavbar">
 		<div style="height: 40px; text-align: center;">
-			<a class="navbar-brand hidden-lg-up" href="#arriba">
+			<a class="navbar-brand hidden-lg-down" href="#arriba">
 				<img style="width: 12rem;" src="https://recursos.partidodigital.org.uy/assets/img/logo_horizontal.svg">
 			</a>
 			<!-- Collect the nav links, forms, and other content for toggling -->
@@ -32,7 +32,7 @@
 					<a class="nav-link" href="#contacto">Contacto</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="https://partidodigital.auth0.com/login?client=3yqAXfyeQCu5RcrgSQUsb0M4ojdvif4N">
+					<a class="nav-link" href="{{site_acceso,url}}">
 						Acceso
 						<span style="float: right;top: 2px;left: 6px;position: relative;">
 							{% include recursos/assets/img/logo_cel_acceso.svg %}

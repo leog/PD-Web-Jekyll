@@ -4,10 +4,10 @@
 function collapseNavbar() {
     if ($(".navbar").offset().top > 50) {
         $(".navbar-fixed-top").addClass("top-nav-collapse");
-        $(".navbar-brand").removeClass("hidden-lg-up");
+        $(".navbar-brand").removeClass("hidden-md-up");
     } else {
         $(".navbar-fixed-top").removeClass("top-nav-collapse");
-        $(".navbar-brand").addClass("hidden-lg-up");
+        $(".navbar-brand").addClass("hidden-md-up");
     }
 }
 

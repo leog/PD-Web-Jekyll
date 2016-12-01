@@ -63,11 +63,16 @@ a {
         color: white;
         font-size: 18px;
         margin: 0;
-        padding: 1rem;
         &:focus,
         &:active {
             outline: none;
         }
+        &:hover i {
+            color: #f37021;
+        }
+    }
+    #acceso svg {
+        width: 28px;
     }
     .navbar-brand {
         float: left;
@@ -91,6 +96,11 @@ a {
         -webkit-backface-visibility: hidden;
         -moz-backface-visibility: hidden;
         backface-visibility: hidden;
+        &:hover {
+            svg path, svg rect {
+            fill: #f37021;
+            }
+        }
     }
     .navbar-collapse {
         &.navbar-center {
@@ -110,9 +120,6 @@ a {
                 color: #f37021;
                 outline: none;
                 background-color: transparent;
-                svg path, svg rect {
-                    fill: #f37021;
-                }
             }
             &:focus,
             &:active {
@@ -246,6 +253,7 @@ a {
         border: 2px solid #fbfbfb;
         font-weight: 600;
         color: white;
+        white-space: normal;
         &:hover {
             color: #f37021;
             border-color: #f37021;
