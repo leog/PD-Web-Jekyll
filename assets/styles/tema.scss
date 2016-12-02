@@ -59,18 +59,6 @@ a {
 
 .navbar-custom {
     text-transform: uppercase;
-    .navbar-toggler {
-        color: white;
-        font-size: 18px;
-        margin: 0;
-        &:focus,
-        &:active {
-            outline: none;
-        }
-        &:hover i {
-            color: #f37021;
-        }
-    }
     #acceso svg {
         width: 28px;
     }
@@ -90,6 +78,10 @@ a {
         &:focus {
             outline: none;
         }
+    }
+    i:hover {
+        cursor: pointer;
+        color: #f37021;
     }
     a {
         color: white;

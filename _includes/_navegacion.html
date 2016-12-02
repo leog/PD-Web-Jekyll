@@ -1,9 +1,10 @@
-<nav class="navbar navbar-fixed-top navbar-custom">
-	<button class="navbar-toggler hidden-lg-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar"
-			aria-controls="exCollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation">
+<nav class="navbar-fixed-top navbar-custom">
+	<div class="hidden-lg-up collapsed p-1" data-toggle="collapse"
+		 data-target="#exCollapsingNavbar" aria-controls="exCollapsingNavbar" aria-expanded="false"
+		 aria-label="Toggle navigation">
 		<i class="fa fa-bars"></i>
-	</button>
-	<div class="hidden-lg-up p-1" id="acceso" style="position: fixed; top: 0; right: 0;">
+	</div>
+	<div class="hidden-lg-up p-1" id="acceso" style="position: fixed;top: 0;right: 0;">
 		<a href="{{site.acceso_url}}">{% include recursos/assets/img/logo_cel_acceso.svg %}</a>
 	</div>
 	<div class="container navbar-toggleable-md collapse" id="exCollapsingNavbar">
